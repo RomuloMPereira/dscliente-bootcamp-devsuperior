@@ -1,4 +1,4 @@
-package com.devsuperior.dscliente.services.exceptions;
+package com.devsuperior.dscliente.resources.exceptions;
 
 import java.io.Serializable;
 import java.time.Instant;
